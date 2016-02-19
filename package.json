@@ -1,0 +1,19 @@
+{
+  "name": "modulepractice",
+  "version": "1.0.0",
+  "description": "working with modules",
+  "main": "moduleDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chopsticks35/modulePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chopsticks35/modulePractice/issues"
+  },
+  "homepage": "https://github.com/chopsticks35/modulePractice#readme"
+}
